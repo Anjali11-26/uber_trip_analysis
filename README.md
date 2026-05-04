@@ -1,9 +1,9 @@
 # uber_trip_analysis
-Uber Trip Analysis Dashboard – Power BI Project
+# Uber Trip Analysis Dashboard – Power BI Project
 📌 Project Overview
 The Uber Trip Analysis Dashboard is a comprehensive business intelligence project built using Power BI. The objective was to analyze Uber’s trip data to uncover meaningful trends, optimize operations, and support data-driven decision-making. This interactive dashboard enables users—particularly business stakeholders and decision-makers—to monitor key performance indicators (KPIs), evaluate rider and driver behavior, and identify opportunities for improvement across different timeframes and locations.
 
-🎯 Objective
+#🎯 Objective
 The primary goal of this project was to design a user-friendly yet powerful dashboard that could help stakeholders gain quick and actionable insights into Uber ride data. The analysis aimed to identify the most frequent pickup and drop-off locations, understand time-based trends, monitor revenue generation, and analyze the payment methods used by customers. This project bridges the gap between raw data and business strategy by providing a single source of truth for daily operations.
 
 💼 My Role & Responsibilities
@@ -14,12 +14,14 @@ Data Modeling: Built a logical and efficient star schema model to improve perfor
 KPI Development: Created over 10 dynamic DAX measures to calculate important business metrics like total trips, revenue, average fare, and usage by hour or day.
 Visualization & Design: Designed an intuitive and interactive dashboard that balances form and function—making it easy for users to explore data across different dimensions.
 Business Insight Extraction: Conducted in-depth analysis to extract actionable insights and align them with business objectives.
+
 🔧 Tools & Technologies Used
 Tool / Technology	Usage
 Power BI	Dashboard development, data visualization
 Power Query (M)	Data cleaning, transformation, integration
 DAX (Data Analysis Expressions)	KPI creation, calculated measures
 Excel / CSV	Source format for raw data
+
 📊 Key Features & Metrics
 This project covers a wide array of insights that are vital for managing Uber’s operations effectively:
 
@@ -28,6 +30,7 @@ Top Pickup & Dropoff Locations – Identify hot zones and optimize fleet distrib
 Time-Based Analysis – Understand peak hours, daily and weekly trends to improve service efficiency.
 Average Fare Calculation – Assess profitability per trip and pricing strategies.
 Payment Method Preferences – Gain insight into user behavior around digital and cash payments.
+
 📈 Business Value & Impact
 The dashboard is more than just a data display—it delivers real, strategic value:
 
